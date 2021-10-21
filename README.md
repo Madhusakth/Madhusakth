@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a 5th year PhD student in the Electrical and Computer engineering department at The University of Texas at Austin. I am advised by Prof. Ahmed Tewfik. My research interests are in the field of signal processing and machine learning. I work on developing efficient deep learning models for signal/image processing applications such as speech recognition and object detection.
 <!--
 **Madhusakth/Madhusakth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
