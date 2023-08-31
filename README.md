@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am a 5th year PhD student in the Electrical and Computer engineering department at The University of Texas at Austin. I am advised by Prof. Ahmed Tewfik. My research interests are in the field of signal processing and machine learning. I work on developing efficient deep learning models for signal/image processing applications such as speech recognition and object detection.
-<!--
+I currently hold the position of Senior Video Research Engineer at Qualcomm, where I focus on developing deep learning models to estimate depth and optical flow for autonomous driving applications.
+
+Prior to this role, I completed my Ph.D. in Electrical and Computer Engineering at The University of Texas at Austin. Under the guidance of Prof. Ahmed Tewfik, my doctoral research was centered around developing novel algorithms for efficient radar data acquisition in automotive scenarios and deep learning model compression.<!--
 **Madhusakth/Madhusakth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
